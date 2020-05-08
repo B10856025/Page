@@ -1,3 +1,21 @@
-h1{
-    color: red;
+.sec1{
+    text-align: center;
+    color:blue;
+}
+.sec2{
+    text-align: center;
+    color:red;
+}
+.sec3{
+    border:2px dotted;
+    text-align: center;
+}
+table,div{
+    border:2px dashed gray;
+    text-align: center;
+}
+.sec5{
+    color:red;
+    border:2px dotted green;
+    text-align: center;
 }
